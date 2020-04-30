@@ -27,7 +27,7 @@
     "angular-in-memory-web-api": "^0.7.0",
     "bootstrap": "^4.0.0-beta",
     "core-js": "^2.5.4",
-    "jquery": "^3.3.1",
+    "jquery": "^3.5.0",
     "jsdf": "^0.3.2",
     "jspdf": "^1.4.1",
     "net": "^1.0.2",
